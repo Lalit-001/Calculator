@@ -41,7 +41,7 @@ const App = () => {
 
   return (
     <div className="">
-      <div className="flex flex-col items-center ">
+      <div className="flex flex-col items-center h-screen">
         <h1 className="text-4xl font-bold font-serif mt-3 text-cyan-600">
           Calculator By Lucky
         </h1>{" "}

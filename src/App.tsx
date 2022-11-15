@@ -75,23 +75,23 @@ const App = () => {
           </div>
         </div>
       </div>
-      <div className="w-full bg-cyan-500 h-24 mt-10 border-t-2 border-black text-center">
+      <div className="w-full  mt-10 border-t-2text-center">
         <div className="flex justify-center gap-2 mt-6 ">
           <a href="https://www.instagram.com/mr.luckyy_001/">
             {" "}
-            <BsInstagram className="text-xl cursor-pointer hover:text-white" />{" "}
+            <BsInstagram className="text-xl cursor-pointer hover:text-cyan-500" />{" "}
           </a>
           <a href="https://www.facebook.com/adhikari.lalit.31">
             {" "}
-            <BsFacebook className="text-xl cursor-pointer hover:text-white" />
+            <BsFacebook className="text-xl cursor-pointer hover:text-cyan-500" />
           </a>
           <a href="https://github.com/Lalit-001">
             {" "}
-            <BsGithub className="text-xl cursor-pointer hover:text-white" />{" "}
+            <BsGithub className="text-xl cursor-pointer hover:text-cyan-500" />{" "}
           </a>
           <a href="https://www.linkedin.com/in/lalit-adhikari-39349a24b/">
             {" "}
-            <BsLinkedin className="text-xl cursor-pointer hover:text-white" />
+            <BsLinkedin className="text-xl cursor-pointer hover:text-cyan-500" />
           </a>
         </div>
       </div>
